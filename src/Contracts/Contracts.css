@@ -1,0 +1,16 @@
+.navigatio {
+  color: aqua;
+}
+.checkedRender {
+  color: #0051ff;
+  width: 90%;
+  margin-left: 21px;
+}
+.checkedRender input {
+  margin-left: 50px;
+}
+
+.searcInp {
+  width: 92%;
+  margin-left: 7px;
+}

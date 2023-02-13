@@ -1,0 +1,12 @@
+.App {
+  height: 655px;
+  width: 312px;
+  margin-left: -400px;
+  margin-top: 163px;
+}
+body {
+  display: flex;
+  background-image: url(https://media.istockphoto.com/id/1215488717/photo/white-screen-smartphone-on-colored-papers.jpg?b=1&s=170667a&w=0&k=20&c=8vpVU0Lu4uwlKKDjfy7Z5brSmaDhnNh8OOS6LCmldJQ=);
+  justify-content: center;
+  background-size: cover;
+}

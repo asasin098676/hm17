@@ -1,0 +1,16 @@
+.Contact {
+  background-color: #ababab59;
+  border: 3px solid #c3cc037d;
+  border-radius: 9px;
+  margin: 2px;
+  height: 90px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+.Contact div {
+  display: flex;
+}
+.Contact div p {
+  margin-left: 4px;
+}
